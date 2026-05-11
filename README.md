@@ -1,10 +1,31 @@
-- 👋 Hi, I’m @imm0r
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi, I'm Ben (immo) 👋
 
-<!---
-imm0r/imm0r is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Frontend dev focused on pragmatic tools, automation, and “why isn’t this a built-in feature already?” type of solutions.  
+I like software that quietly does its job and saves time every day.
+
+## 🚀 Current Focus
+- 🔭 Currently building: **[PoE2GameHelper](https://github.com/imm0r/PoE2GameHelper)**
+- 🧠 Stack: **C#**, **VBScript**, **AHK**, **AHK v2**
+- 💬 Topics: desktop utilities, scripting, workflow optimization
+- 🚫 Open to jobs: **Not currently**
+- 📫 Contact: **gdthsupp0rt@gmail.com**
+
+## 📌 Featured Projects
+
+- **[PoE2GameHelper](https://github.com/imm0r/PoE2GameHelper)**  
+  A helper tool for Path of Exile 2 focused on faster, cleaner in-game workflows.
+
+- **[Win11-Taskbar-Position-Switch](https://github.com/imm0r/Win11-Taskbar-Position-Switch)**  
+  Switches Windows 11 taskbar position — because personalization shouldn’t require a scavenger hunt.
+
+- **[HideProcess](https://github.com/imm0r/hideProcess)**  
+  A utility for handling processes in cases where standard approaches don’t quite cut it.
+
+## 🛠️ How I Work
+
+If I have to click something repeatedly, I automate it.  
+If it still annoys me, I refactor it.
+
+## 🌐 Links
+- GitHub: **[github.com/imm0r](https://github.com/imm0r)**
+- Mail: **gdthsupp0rt@gmail.com**
