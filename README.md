@@ -4,7 +4,7 @@ Frontend dev focused on pragmatic tools, automation, and “why isn’t this a b
 I like software that quietly does its job and saves time every day.
 
 ## 🚀 Current Focus
-- 🔭 Currently building: **[PoE2GameHelper](https://github.com/imm0r/PoE2GameHelper)**
+- 🔭 Currently building: **[PoEformance](https://github.com/imm0r/PoE2GameHelper)**
 - 🧠 Stack: **C#**, **VBScript**, **AHK**, **AHK v2**
 - 💬 Topics: desktop utilities, scripting, workflow optimization
 - 🚫 Open to jobs: **Not currently**
@@ -12,7 +12,7 @@ I like software that quietly does its job and saves time every day.
 
 ## 📌 Featured Projects
 
-- **[PoE2GameHelper](https://github.com/imm0r/PoE2GameHelper)**  
+- **[PoEformance](https://github.com/imm0r/PoE2GameHelper)**  
   A helper tool for Path of Exile 2 focused on faster, cleaner in-game workflows.
 
 - **[Win11-Taskbar-Position-Switch](https://github.com/imm0r/Win11-Taskbar-Position-Switch)**  
