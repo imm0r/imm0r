@@ -13,13 +13,16 @@ I like software that quietly does its job and saves time every day.
 ## 📌 Featured Projects
 
 - **[PoEformance](https://github.com/imm0r/PoE2GameHelper)**  
-  A helper tool for Path of Exile 2 focused on faster, cleaner in-game workflows.
+  _A helper tool for Path of Exile 2 focused on faster, cleaner in-game workflows._
+
+- **[Arcanum Archive](https://github.com/imm0r/MTGTC-Archive)**  
+  _Unearth your collection!_
 
 - **[Win11-Taskbar-Position-Switch](https://github.com/imm0r/Win11-Taskbar-Position-Switch)**  
-  Switches Windows 11 taskbar position — because personalization shouldn’t require a scavenger hunt.
+  _Switches Windows 11 taskbar position — because personalization shouldn’t require a scavenger hunt._
 
 - **[HideProcess](https://github.com/imm0r/hideProcess)**  
-  A utility for handling processes in cases where standard approaches don’t quite cut it.
+  _A utility for handling processes in cases where standard approaches don’t quite cut it._
 
 ## 🛠️ How I Work
 
